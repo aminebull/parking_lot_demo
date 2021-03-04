@@ -1,0 +1,92 @@
+[
+  {
+    "spotId": 1,
+    "spotName": "P1",
+    "type": 1,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 2,
+    "spotName": "P2",
+    "type": 1,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 3,
+    "spotName": "P3",
+    "type": 2,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 4,
+    "spotName": "P4",
+    "type": 2,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 5,
+    "spotName": "P5",
+    "type": 2,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 6,
+    "spotName": "P6",
+    "type": 1,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 7,
+    "spotName": "P7",
+    "type": 2,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 8,
+    "spotName": "P8",
+    "type": 1,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 9,
+    "spotName": "P9",
+    "type": 1,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  },
+  {
+    "spotId": 10,
+    "spotName": "P10",
+    "type": 1,
+    "isAvailable": 1,
+    "vehicleNo": "",
+    "in_time": "",
+    "out_time": ""
+  }
+]
